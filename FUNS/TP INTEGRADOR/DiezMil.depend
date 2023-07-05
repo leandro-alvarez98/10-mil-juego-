@@ -1,0 +1,401 @@
+# depslib dependency file v1.0
+1668744064 source:c:\users\maxim\desktop\funs\dibujar_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668736223 c:\users\maxim\desktop\funs\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668736169 c:\users\maxim\desktop\funs\funcionespuntos.h
+
+1668738463 c:\users\maxim\desktop\funs\repertoriovisual.h
+
+1668736216 c:\users\maxim\desktop\funs\unjugador.h
+
+1668736197 c:\users\maxim\desktop\funs\dosjugadores.h
+
+1668736165 c:\users\maxim\desktop\funs\dibujar_dados.h
+
+1668736192 source:c:\users\maxim\desktop\funs\dosjugadores.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668739559 source:c:\users\maxim\desktop\funs\funcionespuntos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668742722 source:c:\users\maxim\desktop\funs\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668743011 source:c:\users\maxim\desktop\funs\unjugador.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dibujar_dados.h"
+
+1668743826 source:c:\users\maxim\desktop\funs\repertoriovisual.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668774202 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\dibujar_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668736223 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668736169 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\funcionespuntos.h
+
+1668738463 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\repertoriovisual.h
+
+1668736216 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\unjugador.h
+
+1668736197 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\dosjugadores.h
+
+1668736165 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\dibujar_dados.h
+
+1668736192 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\dosjugadores.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668739559 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\funcionespuntos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668742722 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668743826 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\repertoriovisual.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668743011 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\funs\unjugador.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dibujar_dados.h"
+
+1668774202 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\dibujar_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668736223 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668736169 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\funcionespuntos.h
+
+1668738463 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\repertoriovisual.h
+
+1668736216 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\unjugador.h
+
+1668736197 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\dosjugadores.h
+
+1668736165 e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\dibujar_dados.h
+
+1668736192 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\dosjugadores.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668739559 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\funcionespuntos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668742722 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668774594 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\repertoriovisual.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668743011 source:e:\usuario\documents\utn\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\unjugador.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dibujar_dados.h"
+
+1668774202 source:e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\dibujar_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668736223 e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668736169 e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\funcionespuntos.h
+
+1668738463 e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\repertoriovisual.h
+
+1668736216 e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\unjugador.h
+
+1668736197 e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\dosjugadores.h
+
+1668736165 e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\dibujar_dados.h
+
+1668736192 source:e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\dosjugadores.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668739559 source:e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\funcionespuntos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668742722 source:e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668774594 source:e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\repertoriovisual.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dosJugadores.h"
+	"dibujar_dados.h"
+
+1668743011 source:e:\usuario\documents\utn\primer cuatrimestre 2022\laboratorio 1 2022\10 mil (juego)\funs\tp integrador\unjugador.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string.h>
+	"rlutil.h"
+	"funcionesPuntos.h"
+	"repertorioVisual.h"
+	"unJugador.h"
+	"dibujar_dados.h"
+
